@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sequence_posright_shoulder_arm TotPositions="4" ReferencePart="right_shoulder_arm">
+    <Position Index="0" Timing="1.00">
+        <JointPositions Count="11">
+            <PosValue>0.10</PosValue>
+            <PosValue>-0.58</PosValue>
+            <PosValue>46.20</PosValue>
+            <PosValue>17.00</PosValue>
+            <PosValue>51.45</PosValue>
+            <PosValue>20.40</PosValue>
+            <PosValue>5.60</PosValue>
+            <PosValue>0.70</PosValue>
+            <PosValue>124.50</PosValue>
+            <PosValue>148.50</PosValue>
+            <PosValue>0.00</PosValue>
+        </JointPositions>
+        <JointVelocities Count="11">
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>44.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+        </JointVelocities>
+    </Position>
+    <Position Index="1" Timing="1.00">
+        <JointPositions Count="11">
+            <PosValue>0.10</PosValue>
+            <PosValue>-0.58</PosValue>
+            <PosValue>46.20</PosValue>
+            <PosValue>17.00</PosValue>
+            <PosValue>51.45</PosValue>
+            <PosValue>20.40</PosValue>
+            <PosValue>5.60</PosValue>
+            <PosValue>0.70</PosValue>
+            <PosValue>124.50</PosValue>
+            <PosValue>146.50</PosValue>
+            <PosValue>0.00</PosValue>
+        </JointPositions>
+        <JointVelocities Count="11">
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>44.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+        </JointVelocities>
+    </Position>
+    <Position Index="2" Timing="1.00">
+        <JointPositions Count="11">
+            <PosValue>0.10</PosValue>
+            <PosValue>-0.58</PosValue>
+            <PosValue>46.20</PosValue>
+            <PosValue>17.00</PosValue>
+            <PosValue>51.45</PosValue>
+            <PosValue>20.40</PosValue>
+            <PosValue>5.60</PosValue>
+            <PosValue>0.70</PosValue>
+            <PosValue>124.50</PosValue>
+            <PosValue>144.50</PosValue>
+            <PosValue>0.00</PosValue>
+        </JointPositions>
+        <JointVelocities Count="11">
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>44.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+            <SpeedValue>10.00</SpeedValue>
+        </JointVelocities>
+    </Position>
+    <Position Index="3" Timing="-0.10">
+        <JointPositions Count="11">
+            <PosValue>0.00</PosValue>
+            <PosValue>0.00</PosValue>
+            <PosValue>0.00</PosValue>
+            <PosValue>0.00</PosValue>
+            <PosValue>0.00</PosValue>
+            <PosValue>0.00</PosValue>
+            <PosValue>0.00</PosValue>
+            <PosValue>0.00</PosValue>
+            <PosValue>0.00</PosValue>
+            <PosValue>0.00</PosValue>
+            <PosValue>0.00</PosValue>
+        </JointPositions>
+        <JointVelocities Count="11">
+            <SpeedValue>0.00</SpeedValue>
+            <SpeedValue>0.00</SpeedValue>
+            <SpeedValue>0.00</SpeedValue>
+            <SpeedValue>0.00</SpeedValue>
+            <SpeedValue>0.00</SpeedValue>
+            <SpeedValue>0.00</SpeedValue>
+            <SpeedValue>0.00</SpeedValue>
+            <SpeedValue>0.00</SpeedValue>
+            <SpeedValue>0.00</SpeedValue>
+            <SpeedValue>0.00</SpeedValue>
+            <SpeedValue>0.00</SpeedValue>
+        </JointVelocities>
+    </Position>
+</Sequence_posright_shoulder_arm>
